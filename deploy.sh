@@ -20,4 +20,3 @@ git push origin master
 
 git subtree push --prefix=public git@github.com:rwtaylor/mycota-science.git gh-pages
 
-git push origin `git subtree split --prefix public master`:gh-pages --force

@@ -1,0 +1,10 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://mycota.science"
+title: "Dr. John W. Taylor"
+canonifyurls: true
+---
